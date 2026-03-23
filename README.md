@@ -1,4 +1,4 @@
-#🌸 **Hey there, I’m so glad you’re here!**  
+# 🌸 **Hey there, I’m so glad you’re here!**  
 Welcome to my little corner of GitHub!
 
 I’m passionate about growing in my career, learning new tech skills, and exploring the world of **data analytics**. Here, you'll find:
